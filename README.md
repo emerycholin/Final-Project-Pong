@@ -16,3 +16,7 @@ week 3:
 I got the paddles and ball moving as they should through some testing. I was having problems with getting the ball to actually move and making it contact the paddles. It all works now. I also got the scoring function done and need to add a win function.
 
 week 4: I have nearly finished my code. I have added different levels of difficulty and a start function. The different levels was giving me problems because it was initiating pygame before the speed was declaired and I was stumped for a bit. After taking a step back and looking at the code a simple move of the pygame initializer to below where the speed was defined was the answer haha. all I have left to do is finish the win funciton and if i have time make an external files function that will keep game history inside of it.
+
+week 5:
+This week I finished my code and got the post code reflection done. I had a few stumbles with getting the external files part to work. Everything works now and I have
+a completed code ready to hand it. Overall, it has been difficult but fun at the same time.
